@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Welcome
+Exec=python3 /usr/share/revo/welcome/main.py
+Type=Application
+NoDisplay=false
+Categories=Utilities;
+
